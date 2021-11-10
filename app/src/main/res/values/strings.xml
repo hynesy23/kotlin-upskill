@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Kotlin Upskill</string>
+    <string name="welcome">Welcome</string>
+    <string name="usernamePlaceholder">Enter your name</string>
+    <string name="introText">Before we begin, tell me, what is your name?</string>
+    <string name="welcomeTitle">Welcome to Choose Your Adventure!</string>
+    <string name="player_name">Name: Player 1</string>
+    <string name="player_level">Level: Novice</string>
+    <string name="username_submit_btn">Submit</string>
+    <string name="player_welcome_msg">Ahh, so your name is xxxx. Well, xxxx, let\'s see what adventures await!</string>
+    <string name="start_game_btn_text">START!</string>
 </resources>
