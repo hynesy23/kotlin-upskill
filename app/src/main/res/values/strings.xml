@@ -7,6 +7,13 @@
     <string name="player_name">Name: Player 1</string>
     <string name="player_level">Level: Novice</string>
     <string name="username_submit_btn">Submit</string>
-    <string name="player_welcome_msg">Ahh, so your name is xxxx. Well, xxxx, let\'s see what adventures await!</string>
+    <string name="player_welcome_msg">Ah, so your name is %s. Very well, %s, let\'s see what adventures await!</string>
     <string name="start_game_btn_text">START!</string>
+    <string name="second_welcome">Welcome, %s</string>
+    <string name="type_choice_message">Now, before we continue, you had a strange dream last night, didn\'t you? What was it about again?</string>
+    <string name="typeOption_1">You don\'t know how you got there, but you were under water, drowning.</string>
+    <string name="typeOption_2">You were in a burning building. The flames towered around you, and there was no escape</string>
+<!--    <string name="optionType_3">A huge storm lifts you into the air. Thousands of feet in the air, you rise and fall as the wind howls around you</string>-->
+    <string name="optionType_3">You were lifted into the air by a huge gust of wind, and tossed around like a doll in gail force winds high above the air</string>
+    <string name="hey">hello there</string>
 </resources>
